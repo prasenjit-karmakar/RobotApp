@@ -3,10 +3,10 @@ Prerequisite: Java 8, Maven
 
 Steps to run:
 -----------------------------
-clone the repository from github https://github.com/prasenjit-karmakar/RobotApp.git
-to build project run: mvn clean compile
-to run tests: mvn test
-to get output of the scenarios given in the problem sheet , run RobotApplication.java as a java application
+1. clone the repository from github https://github.com/prasenjit-karmakar/RobotApp.git
+2. to build project run: mvn clean compile
+3. to run tests: mvn test
+4. to get output of the scenarios given in the problem sheet , run RobotApplication.java as a java application
 
 
 Output:
